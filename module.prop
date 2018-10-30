@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=Mi_Note3_CMDA1X_Unlock
+name=Mi Note3 CMDA 1X Unlock
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=dianlujitao, Stawidy
+description=Unlock CDMA 1X RTT Voice Network for Mi Note3 MIUI10 Global based on Android 8.1
 minMagisk=17000

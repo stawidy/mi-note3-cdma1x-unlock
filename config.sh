@@ -41,7 +41,8 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "    Mi Note3 CMDA 1X Unlock    "
+  ui_print "           by Stawidy          "
   ui_print "*******************************"
 }
 
